@@ -1,7 +1,7 @@
 # Artificial Neural Network 
 
 
-The structure of the network is as follows:
+The structure of the network is as follows: \n
 -> preprocess 28x28 pixel image 
 -> forward propagation  
 -> calculate the cost function 
