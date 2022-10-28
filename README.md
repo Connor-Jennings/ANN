@@ -1,13 +1,10 @@
-# CNN
+# Artificial Neural Network 
 
-Attempting to create a Convolutional Neural Network 
 
-so far there is a convolution layer and forward propagation 
-currently working on back propagation...
+The structure of the network is as follows:
+-> preprocess 28x28 pixel image 
+-> forward propagation  
+-> calculate the cost function 
+-> backwards propagation
+-> repeat for whole training set
 
-Problems:
-- convolution layer doesnt have the opportunity to learn
-- might have to redo all the code 
-
-Things going well:
-- Im having fun 
